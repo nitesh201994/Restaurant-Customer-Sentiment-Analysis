@@ -1,0 +1,11 @@
+pandas
+seaborn
+matplotlib
+plotly
+nltk
+scikit-learn
+wordcloud
+gensim
+BeautifulSoup4
+keras
+tensorflow
